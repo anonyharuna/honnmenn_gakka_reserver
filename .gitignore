@@ -1,0 +1,7 @@
+.env
+*.log
+booked*.json
+state.json
+launchd.out
+launchd.err
+__pycache__/
